@@ -44,7 +44,7 @@ Realizar un análisis completo del mercado editorial para identificar:
 ### 2. **Análisis Exploratorio de Datos (EDA)**
 - 📈 Distribuciones de variables clave (precios, ratings, reseñas)
 - 🔗 Análisis de correlaciones entre factores de éxito
-- 📊 Segmentación por género, autor y período temporal
+- 📊 Segmentación por género, autor y periodo temporal
 - 🎯 Identificación de outliers y patrones atípicos
 
 ### 3. **Consultas SQL Especializadas**
